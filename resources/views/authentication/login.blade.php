@@ -8,7 +8,7 @@
 <body>
 
 <h2>Login Form</h2>
-<div class="container mx-auto p-5">
+<div class="container bg-slate-400 rounded-3xl mx-auto p-5">
 <form action=" " method="post">
   <div class="h-56 grid grid-cols-3 gap-4 content-center">
     <label for="uname"><b>Username</b></label>
