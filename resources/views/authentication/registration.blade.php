@@ -39,13 +39,11 @@
                         name="confirm_password"
                         placeholder="Confirm Password" />
 
-                    <button
-                        type="submit"
-                        class="w-full text-center py-3 rounded bg-green text-white hover:bg-green-dark focus:outline-none my-1"
-                    >Create Account</button>
+                        <button type="submit" class="w-full text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Create Account</button>
 
-                    <div class="text-center text-sm text-grey-dark mt-4">
-                        
+                   
+
+                    <!-- <div class="text-center text-sm text-grey-dark mt-4">
                         By signing up, you agree to the 
                         <a class="no-underline border-b border-grey-dark text-grey-dark" href="#">
                             Terms of Service
@@ -61,7 +59,7 @@
                     <a class="no-underline border-b border-blue text-blue" href="../login/">
                         Log in
                     </a>.
-                </div>
+                </div> -->
             </div>
         </div>
     
